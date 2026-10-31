@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364020883877",
+    "project_id": "hifazat-app-4b5ba",
+    "storage_bucket": "hifazat-app-4b5ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364020883877:android:1efe6f72990f0f0130c84c",
+        "android_client_info": {
+          "package_name": "com.example.hifazat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9L3YTalb8o55TYt8vl49NF_5qm9hs5K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
